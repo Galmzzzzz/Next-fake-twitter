@@ -13,11 +13,12 @@ React
 TypeScript
 Tailwind CSS
 Запуск
-Клонируйте репозиторий:
+Клонируйте репозиторий: git clone https://github.com/your-username/trainingnext.git
+cd trainingnext
 
-Установите зависимости:
+Установите зависимости:npm install 
 
-Запустите проект:
+Запустите проект:npm run dev
 
 Откройте http://localhost:3000 в браузере.
 
@@ -25,7 +26,7 @@ Tailwind CSS
 Profile.tsx — страница профиля пользователя
 tweets.data.ts — моковые данные твитов
 Пример использования
-Перейдите по адресу:
+Перейдите по адресу:http://localhost:3000/u/username
 
 где username — имя пользователя из моковых данных.
 
